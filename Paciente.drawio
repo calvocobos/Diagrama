@@ -4,11 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SNBwKNHGnvzbRHk3ZS-K-1" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-43" width="100" height="40" as="geometry" />
+        <mxCell id="9YZykXCtZSyrLqcgToU8-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SNBwKNHGnvzbRHk3ZS-K-1" target="SNBwKNHGnvzbRHk3ZS-K-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SNBwKNHGnvzbRHk3ZS-K-2" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="248" y="24" width="120" height="60" as="geometry" />
+        <mxCell id="SNBwKNHGnvzbRHk3ZS-K-1" value="User" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="3" y="-86" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SNBwKNHGnvzbRHk3ZS-K-2" target="9YZykXCtZSyrLqcgToU8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNBwKNHGnvzbRHk3ZS-K-2" value="Tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="58" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-1" value="Cuenta" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="167" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-2" value="Folder" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="244" y="-43" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-3" value="Doctor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="244" y="167" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-4" value="Paciente" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="393" y="-43" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-5" value="Informacion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="393" y="167" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9YZykXCtZSyrLqcgToU8-6" value="Antecedente" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="498" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
